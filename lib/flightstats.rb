@@ -76,6 +76,7 @@ module FlightStats
   require 'flightstats/abstract_date'
   require 'flightstats/actual_gate_departure'
   require 'flightstats/actual_runway_departure'
+  require 'flightstats/actual_gate_arrival'
   require 'flightstats/airline'
   require 'flightstats/airport'
   require 'flightstats/airport_resources'

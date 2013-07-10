@@ -8,6 +8,7 @@ module FlightStats
                   :flight_plan_planned_departure,
                   :estimated_runway_departure,
                   :actual_runway_departure,
+                  :actual_gate_arrival,
                   :scheduled_gate_arrival,
                   :estimated_gate_arrival,
                   :flight_plan_planned_arrival,
